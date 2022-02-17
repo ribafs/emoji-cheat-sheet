@@ -4,6 +4,8 @@
 
 This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com).
 
+| :bowtie: | `:bowtie:` | :smile: | `:smile:` |
+
 ## Table of Contents
 
 - [People](#people)
