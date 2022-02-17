@@ -6,7 +6,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 Exemplo: 
 
-:bowtie:
+:bowtie: - Assim: ```:bowtie:```
 
 ## Table of Contents
 
